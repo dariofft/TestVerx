@@ -1,0 +1,347 @@
+{
+  "farmers": [
+    {
+      "document": "98765432000111",
+      "producer": "George R.R. Martin",
+      "farm": "Winterfell Ranch",
+      "city": "Ribeirão Preto",
+      "uf": "SP",
+      "total_hectares": 250,
+      "arable_hectares": 120,
+      "vegetation_hectares": 130,
+      "cultures": [
+        {
+          "id": 5,
+          "description": "Trigo"
+        },
+        {
+          "id": 6,
+          "description": "Aveia"
+        }
+      ],
+      "id": "c139"
+    },
+    {
+      "document": "54637281000122",
+      "producer": "Christopher Nolan",
+      "farm": "Inception Farms",
+      "city": "Curitiba",
+      "uf": "PR",
+      "total_hectares": 400,
+      "arable_hectares": 200,
+      "vegetation_hectares": 200,
+      "cultures": [
+        {
+          "id": 7,
+          "description": "Milho"
+        },
+        {
+          "id": 8,
+          "description": "Café"
+        }
+      ],
+      "id": "7879"
+    },
+    {
+      "document": "63572849000133",
+      "producer": "Quentin Tarantino",
+      "farm": "Hollywood Ranch",
+      "city": "Campinas",
+      "uf": "SP",
+      "total_hectares": 350,
+      "arable_hectares": 175,
+      "vegetation_hectares": 175,
+      "cultures": [
+        {
+          "id": 9,
+          "description": "Soja"
+        },
+        {
+          "id": 10,
+          "description": "Cana-de-açúcar"
+        }
+      ],
+      "id": "342b"
+    },
+    {
+      "document": "78234912000144",
+      "producer": "Guillermo del Toro",
+      "farm": "Pan's Labyrinth Farms",
+      "city": "Porto Alegre",
+      "uf": "RS",
+      "total_hectares": 280,
+      "arable_hectares": 140,
+      "vegetation_hectares": 140,
+      "cultures": [
+        {
+          "id": 11,
+          "description": "Café"
+        },
+        {
+          "id": 12,
+          "description": "Trigo"
+        }
+      ],
+      "id": "8483"
+    },
+    {
+      "document": "83472956000155",
+      "producer": "James Cameron",
+      "farm": "Avatar Ranch",
+      "city": "Manaus",
+      "uf": "AM",
+      "total_hectares": 500,
+      "arable_hectares": 300,
+      "vegetation_hectares": 200,
+      "cultures": [
+        {
+          "id": 13,
+          "description": "Milho"
+        },
+        {
+          "id": 14,
+          "description": "Soja"
+        }
+      ],
+      "id": "9b06"
+    },
+    {
+      "document": "94738271000166",
+      "producer": "Hayao Miyazaki",
+      "farm": "Spirited Away Farms",
+      "city": "São Paulo",
+      "uf": "SP",
+      "total_hectares": 220,
+      "arable_hectares": 110,
+      "vegetation_hectares": 110,
+      "cultures": [
+        {
+          "id": 15,
+          "description": "Cana-de-açúcar"
+        },
+        {
+          "id": 16,
+          "description": "Aveia"
+        }
+      ],
+      "id": "09c5"
+    },
+    {
+      "document": "35829471000177",
+      "producer": "Ridley Scott",
+      "farm": "Gladiator Ranch",
+      "city": "Fortaleza",
+      "uf": "CE",
+      "total_hectares": 450,
+      "arable_hectares": 225,
+      "vegetation_hectares": 225,
+      "cultures": [
+        {
+          "id": 17,
+          "description": "Café"
+        },
+        {
+          "id": 18,
+          "description": "Milho"
+        }
+      ],
+      "id": "9dbc"
+    },
+    {
+      "document": "72948156000188",
+      "producer": "Wes Anderson",
+      "farm": "Grand Budapest Farms",
+      "city": "Florianópolis",
+      "uf": "SC",
+      "total_hectares": 310,
+      "arable_hectares": 155,
+      "vegetation_hectares": 155,
+      "cultures": [
+        {
+          "id": 19,
+          "description": "Trigo"
+        },
+        {
+          "id": 20,
+          "description": "Soja"
+        }
+      ],
+      "id": "067d"
+    },
+    {
+      "document": "84937261000199",
+      "producer": "Denis Villeneuve",
+      "farm": "Dune Farms",
+      "city": "Belo Horizonte",
+      "uf": "MG",
+      "total_hectares": 330,
+      "arable_hectares": 165,
+      "vegetation_hectares": 165,
+      "cultures": [
+        {
+          "id": 21,
+          "description": "Milho"
+        },
+        {
+          "id": 22,
+          "description": "Cana-de-açúcar"
+        }
+      ],
+      "id": "3236"
+    },
+    {
+      "document": "98237412000111",
+      "producer": "Jordan Peele",
+      "farm": "Get Out Farms",
+      "city": "Salvador",
+      "uf": "BA",
+      "total_hectares": 270,
+      "arable_hectares": 135,
+      "vegetation_hectares": 135,
+      "cultures": [
+        {
+          "id": 23,
+          "description": "Café"
+        },
+        {
+          "id": 24,
+          "description": "Soja"
+        }
+      ],
+      "id": "6dbb"
+    },
+    {
+      "document": "38472056000122",
+      "producer": "Greta Gerwig",
+      "farm": "Little Women Farms",
+      "city": "Rio de Janeiro",
+      "uf": "RJ",
+      "total_hectares": 290,
+      "arable_hectares": 145,
+      "vegetation_hectares": 145,
+      "cultures": [
+        {
+          "id": 25,
+          "description": "Trigo"
+        },
+        {
+          "id": 26,
+          "description": "Café"
+        }
+      ],
+      "id": "351b"
+    },
+    {
+      "document": "47582937000133",
+      "producer": "David Fincher",
+      "farm": "Zodiac Ranch",
+      "city": "Brasília",
+      "uf": "DF",
+      "total_hectares": 320,
+      "arable_hectares": 160,
+      "vegetation_hectares": 160,
+      "cultures": [
+        {
+          "id": 27,
+          "description": "Soja"
+        },
+        {
+          "id": 28,
+          "description": "Milho"
+        }
+      ],
+      "id": "7c0b"
+    },
+    {
+      "document": "59328471000144",
+      "producer": "Martin Scorsese",
+      "farm": "Goodfellas Farms",
+      "city": "Goiânia",
+      "uf": "GO",
+      "total_hectares": 400,
+      "arable_hectares": 200,
+      "vegetation_hectares": 200,
+      "cultures": [
+        {
+          "id": 29,
+          "description": "Café"
+        },
+        {
+          "id": 30,
+          "description": "Cana-de-açúcar"
+        }
+      ],
+      "id": "81f9"
+    }
+  ],
+  "dashboard": {
+    "total_farm": 21,
+    "total_hectares": 3880,
+    "farm_uf": [
+      {
+        "SP": 6
+      },
+      {
+        "MG": 8
+      },
+      {
+        "PR": 1
+      },
+      {
+        "RS": 1
+      },
+      {
+        "AM": 1
+      },
+      {
+        "CE": 1
+      },
+      {
+        "SC": 1
+      },
+      {
+        "BA": 1
+      },
+      {
+        "DF": 1
+      },
+      {
+        "GO": 1
+      },
+      {
+        "RJ": 1
+      },
+      {
+        "RN": 1
+      }
+    ],
+    "farm_cultures": [
+      {
+        "Soja": 6
+      },
+      {
+        "Milho": 8
+      },
+      {
+        "Café": 7
+      },
+      {
+        "Cana-de-açúcar": 6
+      },
+      {
+        "Trigo": 4
+      },
+      {
+        "Aveia": 2
+      }
+    ],
+    "ground_used": [
+      {
+        "arable": 2410
+      },
+      {
+        "vegetation": 1470
+      }
+    ]
+  }
+}

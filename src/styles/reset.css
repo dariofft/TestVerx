@@ -1,0 +1,148 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600&family=Roboto:wght@400;700&display=swap");
+
+:root {
+  --white: #fafafa;
+  --blue-500: #407bff;
+  --blue-700: #0050fd;
+  --red-500: #e74c3c;
+  --gray-300: #a89999;
+  --gray-500: #534d4d;
+  --black-300: #333333;
+  --black-100: #333333a9;
+}
+
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body {
+  background: var(--white);
+}
+a,
+cite {
+  font-style: normal;
+  text-decoration: none;
+}
+
+a,
+button,
+input[type="button"],
+input[type="submit"],
+select,
+.btn {
+  cursor: pointer;
+}
+p,
+a,
+cite,
+input,
+button,
+h3,
+h4,
+h5,
+h6,
+.btn,
+label,
+textarea,
+fieldset {
+  font-family: "Poppins", sans-serif;
+}
+p,
+a,
+cite,
+input,
+button,
+h3,
+h4,
+h5,
+h6,
+.btn,
+label,
+textarea {
+  font-size: 0.7em;
+}
+textarea {
+  resize: none;
+}
+p,
+a,
+cite {
+  color: var(--black-300);
+  padding: 10px 0;
+  font-weight: bold;
+}
+ul,
+ol {
+  list-style: none;
+  display: flex;
+  height: 100%;
+}
+ul li,
+ol li {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+}
+h1,
+h2 {
+  font-size: 3em;
+  font-family: "Poppins", sans-serif;
+  color: var(--black-300);
+  font-weight: 600;
+  font-style: normal;
+}
+h6 {
+  font-weight: bold;
+  font-size: 18px;
+  color: var(--black-300);
+  display: flex;
+}
+
+/* Cor do placeholder */
+
+.placeholder {
+  color: #63717d;
+}
+::-webkit-input-placeholder {
+  color: #63717d;
+}
+:-moz-placeholder {
+  color: #63717d;
+}
+::-moz-placeholder {
+  color: #63717d;
+}
+:-ms-input-placeholder {
+  color: #63717d;
+}
+
+/*Scroll*/
+
+::-webkit-scrollbar-track {
+  background-color: #e8eff4;
+}
+::-webkit-scrollbar {
+  width: 8px;
+  background: var(--blue-500);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--blue-500);
+}
+
+a {
+  color: var(--blue-500);
+  font-family: "Poppins", sans-serif;
+  font-size: 0.9rem;
+  text-decoration: underline;
+  font-weight: 400;
+}
+
+a:hover {
+  color: var(--blue-700);
+  font-weight: 400;
+}
